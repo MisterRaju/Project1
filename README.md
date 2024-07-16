@@ -49,14 +49,12 @@ We welcome contributions to make GuruDevs even better! To contribute, follow the
 
 If you have any questions, suggestions, or just want to say hi, feel free to reach out:
 
-- Email: youremail@example.com
-- Twitter: @yourtwitterhandle
-- LinkedIn: Your Name
+- Email: rajughimirefromnepal@gmail.com
+- LinkedIn: Raju Ghimire
 
 ## 🎉 Acknowledgements
 
 A big thank you to everyone who has contributed to making this project a reality. Your support and feedback are greatly appreciated!
 
-Made with ❤️ by Your Name
-
+Made with ❤️ Raju
 

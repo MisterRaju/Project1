@@ -42,6 +42,11 @@ main {
   font-size: 60px;
   color: black;
 }
+.main-cards button:hover {
+  background-color: var(--hover-theme-color);
+  transform: translateY(-20px);
+  transition: 0.3s;
+}
 
 .main-images {
   width: 30vw;

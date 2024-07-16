@@ -5,6 +5,7 @@ header {
   height: auto;
   justify-content: space-between;
   background-color: var(--primary-theme-color);
+  background-color: #9393ec;
   padding: 20px 40px;
 }
 

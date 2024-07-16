@@ -17,14 +17,15 @@ To get started with GuruDevs, simply clone the repository and open the project i
 
 Here's a quick overview of the project's structure:
 
-index.html // The main HTML file that structures the webpage.
-styles/ // A folder containing CSS files that style the webpage.
-└── main-section.css // Styles specific to the main section.
-└── sliding-nav.css // Styles specific to the sliding navigation.
-scripts/ // A folder containing JavaScript files that add interactivity.
-└── main.js // General interactivity for the main section.
-└── sliding-nav.js // Interactivity for the sliding navigation.
-assets/ // A folder containing images and other assets used in the project.
+- **index.html**: The main HTML file that structures the webpage.
+- **styles/**: A folder containing CSS files that style the webpage.
+  - **main-section.css**: Styles specific to the main section.
+  - **sliding-nav.css**: Styles specific to the sliding navigation.
+- **scripts/**: A folder containing JavaScript files that add interactivity.
+  - **main.js**: General interactivity for the main section.
+  - **sliding-nav.js**: Interactivity for the sliding navigation.
+- **assets/**: A folder containing images and other assets used in the project.
+
 
 
 ## 🛠️ Technologies Used

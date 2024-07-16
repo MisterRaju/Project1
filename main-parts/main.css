@@ -1,0 +1,69 @@
+/* Main Section Styles */
+main {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 70px 30px;
+  gap: 30px;
+}
+
+.main-title h1 {
+  font-size: 3rem;
+}
+
+.main-para {
+  width: 80%;
+}
+
+.main-para p {
+  letter-spacing: 2px;
+  font-family: verdana;
+  font-size: 1.2rem;
+}
+
+.main-cards {
+  display: flex;
+  gap: 30px;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+.main-cards button {
+  background-color: var(--primary-theme-color);
+  border: none;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 20px;
+}
+
+.main-cards button i {
+  font-size: 60px;
+  color: black;
+}
+
+.main-images {
+  width: 30vw;
+  background-color: var(--body-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-images i {
+  font-size: 300px;
+  color: #9e9eff;
+  text-shadow: 0px 0px 100px var(--shadow-color);
+  animation: floatIcon 3s ease-in-out infinite;
+}
+
+@keyframes floatIcon {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}

@@ -1,0 +1,28 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+:root {
+  --primary-theme-color: #9e9eff;
+  --hover-theme-color: rgb(150, 121, 218);
+  --secondary-theme-color: #c2aff0;
+  --body-color: #181818;
+  --shadow-color: #9292ff;
+  --text-color: #ffffff;
+}
+
+body {
+  background-color: var(--body-color);
+  color: var(--text-color);
+  overflow-x: hidden;
+}
+
+.fa-solid {
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: 0.3s;
+}

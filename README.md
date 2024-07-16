@@ -56,5 +56,6 @@ If you have any questions, suggestions, or just want to say hi, feel free to rea
 
 A big thank you to everyone who has contributed to making this project a reality. Your support and feedback are greatly appreciated!
 
-Made with ❤️ Raju
+Made with ❤️ by Us
+
 

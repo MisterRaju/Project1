@@ -1,4 +1,4 @@
-# 🎓 GuruDevs - Your Ultimate Study Companion for Computer Science!
+# 🎓 GuruDevs - Ultimate Study Companion for Computer Science!
 
 Welcome to **GuruDevs**! This project aims to make learning your Bachelor of Computer Science subjects more engaging and effective. With a user-friendly interface, interactive navigation, and a touch of creativity, GuruDevs is designed to help you master your subjects effortlessly. 🌟
 
